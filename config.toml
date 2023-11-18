@@ -5,7 +5,7 @@ theme = "hugo-texify3"
 
 [module]
   [module.hugoVersion]
-    min = "0.113.0"
+    min = "0.115.1"
 
 [[menu.main]]
 identifier = "post"
