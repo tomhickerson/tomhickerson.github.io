@@ -80,21 +80,21 @@ enableEmoji = true
   scrollToTop = true 
   global_mathjax = false
   readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
+  readTimeSeparator = "\u2026 \u23F2 Reading Time:"
   # legacyLayout = false
   shareSocial = true
 
   [[params.socialLinks]]
     name = "mastodon"
-    url = "https://joinmastodon.org/"
+    url = "https://mstdn.social/@xig"
 
   [[params.socialLinks]]
     name = "x"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/launchallxig"
 
   [[params.socialLinks]]
     name = "github"
-    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+    url = "https://github.com/tomhickerson"
 
 [menu]
 
