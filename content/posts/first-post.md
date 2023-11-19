@@ -1,8 +1,12 @@
 ---
 title: "First Post"
-date: 2023-11-18T19:39:22+02:00
+slug : "first-post"
+date: 2023-11-19T20:06:06+05:30
 draft: false
+_build:
+  render: always
+  list: always
+  publishResources: true
 ---
+First post, let's see where this goes.
 
-First post, and hello world!
-Updating this a second time so that I can try the build out. 
