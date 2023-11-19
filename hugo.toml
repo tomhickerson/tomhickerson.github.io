@@ -45,7 +45,7 @@ enableEmoji = true
 
 [params.author]
   name = "Tom Hickerson"
-  about = "CHANGE SITE AUTHOR ABOUT"
+  about = "about-tom"
 
 [blackfriday]
   # hrefTargetBlank = true
