@@ -67,7 +67,7 @@ enableEmoji = true
   themeColor = "#494f5c"
 
   #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
+  footerCopyright = "<a href='https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt' target='_blank'>MIT License</a>"
   # bgImg = ""
   gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
