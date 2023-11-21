@@ -62,11 +62,11 @@ enableEmoji = true
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # description = "CHANGE ME SITE DESCRIPTION"
+  description = "I suppose I'll be writing here, then"
   # images = [""]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
+  homeSubtitle = "I suppose I'll be writing over here"
   footerCopyright = "<a href='https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt' target='_blank'>MIT License</a>"
   # bgImg = ""
   gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
@@ -95,6 +95,10 @@ enableEmoji = true
   [[params.socialLinks]]
     name = "github"
     url = "https://github.com/tomhickerson"
+	
+  [[params.socialLinks]]
+    name = "instagram"
+    url = "https://www.instagram.com/launchallxig"
 
 [menu]
 
