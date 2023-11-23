@@ -2,8 +2,8 @@
 I originally started with a short article about deploying to Github with Hugo, however a few things had changed since then:</description><content type="html"><![CDATA[<p>I&rsquo;m starting to work on this blog again to get away from the WordPress way of working with things, that is, to have someone else set up the MySQL and PHP and hope it&rsquo;s all the right version, and hope that updates don&rsquo;t break modules, and hope that a PHP upgrade doesn&rsquo;t cost extra in hosting support fees, and hope that&hellip; well, you get the idea.</p>
 <p>I originally started with <a href="https://chrisjhart.com/Creating-A-Simple-Free-Blog-Hugo/">a short article</a> about deploying to Github with Hugo, however a few things had changed since then:</p>
 <ul>
-<li>Hugo itself now uses a &lsquo;&lsquo;&lsquo;hugo.toml&rsquo;&rsquo;&rsquo; file instead of &lsquo;&lsquo;&lsquo;config.toml&rsquo;&rsquo;&rsquo;</li>
-<li>Github now offers a one-click support for Hugo actions, so there&rsquo;s no need to roll your own Action &lsquo;&rsquo;&rsquo;.yaml&rsquo;&rsquo;&rsquo; file</li>
+<li>Hugo itself now uses a <code>hugo.toml</code> file instead of <code>config.toml</code></li>
+<li>Github now offers a one-click support for Hugo actions, so there&rsquo;s no need to roll your own Action <code>.yaml</code> file</li>
 </ul>
 <p>Also it&rsquo;s worth it to research your theme locally for a while, before pushing anything to Github.  I rushed that a bit and had to change themes mid-stream, but am now getting it all working.</p>
 <p>Working with Github Pages has also helped me understand Git a little more, like using things like <a href="https://www.atlassian.com/git/tutorials/undoing-changes/git-rm">git rm</a> and <a href="https://www.atlassian.com/git/tutorials/git-submodule">git submodule</a>.</p>
