@@ -40,7 +40,7 @@ rssLimit = 10
 copyright = "Copyright 2023"
 enableEmoji = true
 
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-LW4K0SKTNZ"
 # disqusShortname = "CHANGE ME"
 
 [params.author]
