@@ -37,7 +37,7 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-copyright = "Copyright 2023"
+copyright = "Copyright 2023-2024"
 enableEmoji = true
 
 googleAnalytics = "G-LW4K0SKTNZ"
@@ -55,6 +55,12 @@ googleAnalytics = "G-LW4K0SKTNZ"
 [taxonomies]
   tag = "tags"
   # Categories are disabled by default.
+  
+[module]
+[[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+	lang = 'en'
 
 [params]
   dateform        = "Jan 2, 2006"
