@@ -25,3 +25,5 @@ That having been said, there are a few tripwires you need to be mindful about wh
 7. If you don't have a good idea of which theme you want to use, I found an excellent suggestion [here](https://github.com/tomowang/hugo-theme-tailwind/blob/main/exampleSite/README.md).  You can download some sample content, download a _whole_ lot of themes, and just run ```hugo server -t theme_name``` a bunch of times, reviewing each one.
 
 In general, there were quite a few times I wanted to take the whole site and start again - and several times I did - but in general you can make mistakes and correct them easily.  It just takes a little practice.
+
+PS - I did find out that running ```hugo server``` does not fill in the ```public``` directory but keeps the site in memory instead, which is great because after that you can just run ```git add -A``` to add all changes, and not have to fill in the file names.
