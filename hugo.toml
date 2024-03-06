@@ -105,6 +105,10 @@ googleAnalytics = "G-LW4K0SKTNZ"
   [[params.socialLinks]]
     name = "instagram"
     url = "https://www.instagram.com/launchallxig"
+	
+  [[params.socialLinks]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/thomas-hickerson-9561431/"
 
 [menu]
 
