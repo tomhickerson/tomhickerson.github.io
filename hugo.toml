@@ -109,6 +109,10 @@ googleAnalytics = "G-LW4K0SKTNZ"
   [[params.socialLinks]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/thomas-hickerson-9561431/"
+	
+  [[params.socialLinks]]
+	name = "bluesky"
+	url = "https://bsky.app/profile/tomhickerson.bsky.social"
 
 [menu]
 
