@@ -117,9 +117,14 @@ googleAnalytics = "G-LW4K0SKTNZ"
 [menu]
 
   [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     url = "posts/"
     weight = 10
+	
+  [[menu.main]]
+    name = "Fiction"
+	url = "stories/"
+	weight = 15
 
   [[menu.main]]
     name = "About"
