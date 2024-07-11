@@ -68,11 +68,11 @@ googleAnalytics = "G-LW4K0SKTNZ"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  description = "I suppose I'll be writing here, then"
+  description = "Drinker of Coffee, Reader of Books, Watcher of Shows"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "I suppose I'll be writing over here"
+  homeSubtitle = "Drinker of Coffee, Reader of Books, Watcher of Shows"
   footerCopyright = "<a href='https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt' target='_blank'>MIT License</a>"
   # bgImg = ""
   gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
