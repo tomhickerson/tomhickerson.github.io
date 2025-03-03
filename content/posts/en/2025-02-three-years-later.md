@@ -30,4 +30,6 @@ If you or someone you know is interested in donating to Ukraine's victory, you c
 - [Kyiv Independent](https://www.patreon.com/c/kyivindependent/posts)
 - Author [Olia Hercules](https://www.patreon.com/c/OliaHercules/home)
 - [Lifeline Ukraine](https://www.patreon.com/c/lifelineukraine/posts)
+- [HUGS NGO working in Kharkiv](https://hugsukraine.org/)
+- [European Resilience Initiative Center](https://european-resilience.org/charity)
 
