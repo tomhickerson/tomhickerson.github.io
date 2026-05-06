@@ -55,6 +55,9 @@ googleAnalytics = "G-LW4K0SKTNZ"
 [taxonomies]
   tag = "tags"
   # Categories are disabled by default.
+
+[markup.goldmark.renderer]
+  unsafe = true
   
 [module]
 [[module.mounts]]
@@ -89,14 +92,6 @@ googleAnalytics = "G-LW4K0SKTNZ"
   readTimeSeparator = "\u2026 \u23F2 Reading Time:"
   # legacyLayout = false
   shareSocial = true
-
-  [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://mstdn.social/@xig"
-
-  [[params.socialLinks]]
-    name = "x"
-    url = "https://twitter.com/launchallxig"
 
   [[params.socialLinks]]
     name = "github"
