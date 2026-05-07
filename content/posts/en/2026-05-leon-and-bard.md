@@ -27,13 +27,15 @@ Even in the late 80s and 90s, Botstein was aloof and dedicated to the aims of th
 
 I'm not surprised that Botstein pursued Epstein for money.  I'm not surprised that he ignored caution and brushed off the warnings of senior faculty.  I **am** surprised that he finally gave in and resigned.
 
-So where does that leave Bard now?  Its future is secure; a billion dollars has been gathered for its endowment, most of that collected in the last 5-10 years.  Its future without Botstein, is bright.  The future leadership will have smooth sailing ahead.  But will they ever look back on the last 51 years and think for a moment, what that bright future really cost?  I doubt it.
+So where does that leave Bard now?  Its future is secure; a billion dollars has been gathered for its endowment, most of that collected in the last 5-10 years.  Its future without Botstein, is bright.  The future leadership will have smooth sailing ahead.  But will they ever look back on the last 51 years and think for a moment, _what that bright future really cost others_?  I doubt it.
 
 ---
 <sup>1</sup> Though, if this war ever ends and I find myself on the eastern seaboard of the USA I may go back to see this garden, it's quite wonderful.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/120959929@N03/35299166766/in/photolist-VMgsty-2aAGqYc-2or96Un-2jCWnND-2aTsS4Y-4agUb5-4JLAt8-eiNVcR-29dVX5U-92Jc9L-29dWh33-sBfVrf-5Xa63J-8DLVcG-2nKhvV7-NecYq4-VeQc1c-HrkAL1-RGayaY-2bUVf6f-8xrvKQ-otkW25-6LeBDW-6ycCP-PReZqU-eCiSu6-z3BLz-PHUXyw-2mbmT97-92F6L8-btneTY-2ro5TQV-tu5RGA-5X5L8K-4kKMCM-5wSUZP-trXGzz-8B5hrX-5XarqS-2njYWb4-4K4Jx3-2nFmCYe-ojv8yU-4JQQuy-5XasWs-pPMrJo-2KHGD6-4JLBs8-2ro5hSY-aHBi2X" title="Blithewood   Garden at Bard HFF"><img src="https://live.staticflickr.com/4208/35299166766_9f9b9f91c8_z.jpg" width="640" height="427" alt="Blithewood   Garden at Bard HFF"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <sup>2</sup> Fun fact: another student came to Bard a year later and would get in fights every weekend like a regular Russell Crowe, but he happened to be white and the son of a famous poet.
 
-<sup>3</sup>
+<sup>3</sup> The one bit of attention he did pay me or my family came when my parents wrote a letter complaining about the condition of the dorms; Botstein replied with a multi-page screed about how we shouldn't complain and students in the 1940s and 50s had it much worse than me.  After that, writing Bard every single tuition check made them visibly wince with pain.
 
 <sup>4</sup> I heard the initial news that Gaiman would be teaching at Bard and I turned green with envy, but never found out how they landed someone like him.  [Then the sexual assault allegations came to light](https://www.bbc.com/news/articles/cn01dynqx7ro) and I thought to myself _well that makes perfect sense now_.
