@@ -16,8 +16,9 @@ My own relationship with Bard is now very distant; I attended Bard from 1989 to 
 Even though it's distant, several things stand out in my mind when I think of Bard:
 - In the first month, we could all feel that something was off; Botstein stood before our freshman class the very first day and told us that we could drink and do recreational drugs all we wanted, no one would stop us.  Later that month, someone started a fistfight and was summarily expelled with no due process.<sup>2</sup>
 - "Bard is a selfish place" one classmate said to me before leaving; his faculty advisor had decided not to serve on his moderation panel, something every student has to do their sophomore year.  I don't pretend ot have any hard numbers, but each year we saw an exodus of students who just couldn't pay, wouldn't pay, or gave up on the place..
-- The number of faculty who were dating or married former students of theirs, was an iaappropriate amount.  For me, 'inappropriate' is greater than one.
-- I knew students who were institutionalized post-Bard.   
+- The number of faculty who were dating or married their former students was an iaappropriate amount.  For me, 'inappropriate' is greater than one.
+- I knew students who were institutionalized post-Bard.
+- I knew students who committed suicide or were involved in fatal DUIs.  If you looked at the fatality statistics you might think it's nothing special, but for a small college of 1400-1600 students it felt significant. 
 - The last story I worked on for the Observer, and what sealed the deal for me, was about four students being expelled, again, with little or no due process.  I interviewed their lawyer and he spelled it out in black and white; if you attend a private institution like Bard, you give up your Constitutional rights.  As a rather waspy guy that rankled with me, and I couldn't imagine being female or a minority and reporting a serious crime, like a rape, through the gauntlet of the Bard administration.
 
 I went to a top-level state school after that experience.  It boasted a well-trained campus police force and a large health clinic, together with an entire Slavic Languages department, not just 1-2 professors like it was at Bard.  Nevertheless, Bard shaped me, as it shaped many others, which is why, 35 years later, I followed this unwinding of Botstein's fate with serious interest.
@@ -29,10 +30,10 @@ I'm not surprised that Botstein pursued Epstein for money.  I'm not surprised th
 So where does that leave Bard now?  Its future is secure; a billion dollars has been gathered for its endowment, most of that collected in the last 5-10 years.  Its future without Botstein, is bright.  The future leadership will have smooth sailing ahead.  But will they ever look back on the last 51 years and think for a moment, what that bright future really cost?  I doubt it.
 
 ---
-<sup>1</sup> Though I may go back to see this garden, it's quite wonderful.
+<sup>1</sup> Though, if this war ever ends and I find myself on the eastern seaboard of the USA I may go back to see this garden, it's quite wonderful.
 
 <sup>2</sup> Fun fact: another student came to Bard a year later and would get in fights every weekend like a regular Russell Crowe, but he happened to be white and the son of a famous poet.
 
 <sup>3</sup>
 
-<sup>4</sup> I heard the initial news that Gaiman would be teaching at Bard and I turned green with envy, but never found out how they landed someone like him.  
+<sup>4</sup> I heard the initial news that Gaiman would be teaching at Bard and I turned green with envy, but never found out how they landed someone like him.  [Then the sexual assault allegations came to light](https://www.bbc.com/news/articles/cn01dynqx7ro) and I thought to myself _well that makes perfect sense now_.
