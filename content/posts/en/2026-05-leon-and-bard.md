@@ -1,7 +1,7 @@
 ---
 title: "Briefly, On Bard College"
 date: 2026-05-05T16:18:23+02:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 
