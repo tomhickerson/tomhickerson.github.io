@@ -29,5 +29,10 @@ I'm not surprised that Botstein pursued Epstein for money.  I'm not surprised th
 So where does that leave Bard now?  Its future is secure; a billion dollars has been gathered for its endowment, most of that collected in the last 5-10 years.  Its future without Botstein, is bright.  The future leadership will have smooth sailing ahead.  But will they ever look back on the last 51 years and think for a moment, what that bright future really cost?  I doubt it.
 
 ---
-<sup>1</sup>Though I may go back to see this garden, it's quite wonderful.
-<sup>2</sup>Fun fact: another student came to Bard a year later and would get in fights every weekend, but he happened to be white and the son of a famous poet.  So there you go.
+<sup>1</sup> Though I may go back to see this garden, it's quite wonderful.
+
+<sup>2</sup> Fun fact: another student came to Bard a year later and would get in fights every weekend like a regular Russell Crowe, but he happened to be white and the son of a famous poet.
+
+<sup>3</sup>
+
+<sup>4</sup> I heard the initial news that Gaiman would be teaching at Bard and I turned green with envy, but never found out how they landed someone like him.  
