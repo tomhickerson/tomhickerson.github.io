@@ -14,13 +14,13 @@ I woke up this morning to the news that *Mr Nobody Against Putin* won the Academ
 
 I have not seen the film; I have shied away from all documentaries actually, because I'm living it in eastern Ukraine.  I have not seen any of the films nominated, I haven't seen most of the ceremony, but maybe I'll find some time to do so later.  *I will say* that not specifically pointing out his own country's massive war against Ukraine is pretty telling for a Russian.  I personally spent Sunday reading about [the 1800 drones launched at Ukraine by Russia](https://unn.ua/en/amp/russia-launched-almost-1800-drones-and-dozens-of-missiles-at-ukraine-in-a-week-zelenskyy).  Also my power went out from 10pm to 1am due to a nearby drone attack.  In short, we were busy with other things.
 
-The title of the film reminds me of an old story we used to tell one another in Scout camp: There are four people and their names are Anybody, Somebody, Everybody and Nobody.  There was a job that Anybody could do, and Everybody thought that Somebody should do it, but in the end Nobody did it. 
+The title of the film reminds me of an old story we used to tell one another in Scout camp: _There are four people and their names are Anybody, Somebody, Everybody and Nobody.  There was a job that Anybody could do, and Everybody thought that Somebody should do it, but in the end Nobody did it._  
 
 Russia is a country of 130 million Nobodies and they are all looking for Somebody to lead them; Anybody could do it, but Everybody is waiting for Somebody else.  Until that day comes though, they are perfectly fine with following orders to kill the neighboring 40 million Ukrainians. 
 
 A bit more about this is discussed in [this article](https://kyivindependent.com/how-mr-nobody-against-putin-fails-to-answer-the-uncomfortable-truth-of-wartime-russia/) in the Kyiv Independent:
 
-"Talankin's anti-war stance is sincere, and his horror at what is happening, especially when his older male students accept the fate of going off to war, is gut wrenching. But the documentary is also analytically evasive. The paralysis of non-ideologues becomes its moral center, and in doing so, fear is aestheticized, survival transformed into quiet heroism. What the documentary gives us is not judgment, but melancholy. And melancholy, however understandable, does not stop the world from burning."
+> "Talankin's anti-war stance is sincere, and his horror at what is happening, especially when his older male students accept the fate of going off to war, is gut wrenching. But the documentary is also analytically evasive. The paralysis of non-ideologues becomes its moral center, and in doing so, fear is aestheticized, survival transformed into quiet heroism. What the documentary gives us is not judgment, but melancholy. And melancholy, however understandable, does not stop the world from burning."
 
 ---
 
