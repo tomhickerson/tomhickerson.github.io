@@ -1,0 +1,6 @@
+---
+title: "Russia: Beginning of something new"
+date: 2006-12-12
+---
+
+<P>While on the Alfa, we have witnessed the growth of the New Russia, mostly in the form of our seminars, but also in the form of just living life in Moscow among Russians. What we've seen over the course of the last few months has very truly been Russia 'warts and all'. We've lost <a href="http://agonist.org/20061011/kremlin\_conspiracy\_of\_oligarchs\_killed\_journalist\_to\_make\_putin\_look\_bad">Anna Politkovskaya</a>, we have seen <a href="http://agonist.org/20061119/leading\_russian\_critic\_of\_putins\_regime\_is\_poisoned\_in\_london">Litvenenko poisoned abroad</a>, and we've seen <a href="http://www.themoscowtimes.com/stories/2006/10/20/001.html">the new NGO laws</a> come into force. This article I found today at the American Interest seems to sum up what is next to come, entitled <a href="http://www.the-american-interest.com/ai2/article.cfm?Id=187&MId=6">The Bear Is Back</a>: <P><code>A resurgent Russia will not be a recycled Soviet Union, either in terms of messianic ideology or territorial conquests. The Cold War as such will not return. But make no mistake: This renewed Russia will be strong, assertive and probably increasingly undemocratic. Its human rights record will not be pleasant, and it will definitely not be a consistent or reliable partner of the West.</code>

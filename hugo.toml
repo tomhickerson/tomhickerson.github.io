@@ -122,6 +122,11 @@ googleAnalytics = "G-LW4K0SKTNZ"
 	weight = 15
 
   [[menu.main]]
+    name = "Archives"
+	url = "archives/"
+	weight = 20
+	
+  [[menu.main]]
     name = "About"
     url = "about-tom/"
-    weight = 20
+    weight = 25
