@@ -1,6 +1,10 @@
 ---
 title: "Happy Easter! Христос воскрес!"
 date: 2016-05-01
+tags:
+  - easter
+  - kharkiv
+  - ukraine
 ---
 
 ![](images/13129449_766982043402716_982660277_n.jpg)
