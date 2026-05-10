@@ -1,9 +1,12 @@
 ---
-title: "The Typography of ‘Stranger Things’ — Nelson Cash"
+title: "The Typography of ‘Stranger Things’"
 date: 2016-07-28
+tags:
+  - design 
+  - television
 ---
 
-"The Stranger Things title sequence is pure, unadulterated typographic porn."
+> "The Stranger Things title sequence is pure, unadulterated typographic porn."
 
 tags: [design](http://ift.tt/2awvsmW)
 

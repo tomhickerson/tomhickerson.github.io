@@ -1,9 +1,12 @@
 ---
 title: "I've bought some more awful IoT stuff"
 date: 2016-06-22
+tags:
+  - iot 
+  - security 
 ---
 
-"But even if you change the default root password, anyone on your local network can get root on the plug. So that's a thing."
+> "But even if you change the default root password, anyone on your local network can get root on the plug. So that's a thing."
 
 tags: [iot](http://ift.tt/28M7jpy)
 

@@ -1,9 +1,12 @@
 ---
-title: "Brexit: The Morning After - Paul Krugman, NYT"
+title: "Brexit: The Morning After"
 date: 2016-06-25
+tags:
+  - brexit 
+  - economics 
 ---
 
-"So calm down about the short-run macroeconomics; grieve for Europe, but you should have been doing that already; worry about Britain."
+> "So calm down about the short-run macroeconomics; grieve for Europe, but you should have been doing that already; worry about Britain."
 
 tags: [brexit](http://ift.tt/28UhhaQ)
 

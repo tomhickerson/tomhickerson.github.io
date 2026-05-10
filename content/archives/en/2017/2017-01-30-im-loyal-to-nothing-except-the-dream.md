@@ -4,7 +4,7 @@ date: 2017-01-30
 tags:
   - usa 
   - america 
-  - politica 
+  - politics
 ---
 
 > "I truly believe we are at an unprecedented time in American history, in uncharted territory. I have benefited from democracy passively, without trying at all, for 46 years. I now understand that the next four years is perhaps the most important time to be an activist in the United States since the civil rights movement. I am ready to do the work."

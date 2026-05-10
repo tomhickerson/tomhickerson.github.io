@@ -3,6 +3,9 @@ title: "First Post"
 slug : "first-post"
 date: 2023-11-19T20:06:06+05:30
 draft: false
+tags:
+  - blogging
+  - freshstart
 _build:
   render: always
   list: always
