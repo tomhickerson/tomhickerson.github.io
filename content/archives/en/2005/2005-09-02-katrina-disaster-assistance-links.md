@@ -1,6 +1,9 @@
 ---
 title: "Katrina disaster assistance links"
 date: 2005-09-02
+tags:
+  - katrina
+  - usa
 ---
 
 <P>If you haven't donated already, here are some quick links to donate on the web: <P><a href="http://store.yahoo.com/redcross-donate2/">Yahoo has opened a store to donate to the Red Cross</a>. <P><a href="http://www.paypal.com/cgi-bin/webscr?cmd=xpt/cps/general/PayPalKatrinaReliefEffort-outside">Paypal has opened an account to donate to the United Way</a>.
