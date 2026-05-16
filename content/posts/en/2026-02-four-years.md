@@ -9,6 +9,7 @@ tags:
   - war
   - ukraine 
   - kharkiv
+  - photo
 ---
 
 I'm writing this post late, because frankly February 24th this time around was much darker than the years before.
