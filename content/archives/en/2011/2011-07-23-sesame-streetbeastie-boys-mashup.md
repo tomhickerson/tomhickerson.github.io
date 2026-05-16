@@ -1,6 +1,10 @@
 ---
 title: "Sesame Street/Beastie Boys mashup"
 date: 2011-07-23
+tags:
+  - video 
+  - sesamestreet
+  - mashup
 ---
 
 <iframe src="http://player.vimeo.com/video/26570444?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
