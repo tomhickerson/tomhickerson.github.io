@@ -1,6 +1,10 @@
 ---
 title: "Undisclosed Location 2010: somewhere in Italy"
 date: 2010-01-07
+tags:
+  - travel
+  - italy
+  - photo
 ---
 
 took a surprise vacation - guess where...
