@@ -1,6 +1,10 @@
 ---
 title: "Undisclosed Location 2010: somewhere else in Italy"
 date: 2010-01-11
+tags:
+  - travel
+  - italy
+  - photo
 ---
 
 OK I ADMIT IT, it was Verona and Bergamo ...
