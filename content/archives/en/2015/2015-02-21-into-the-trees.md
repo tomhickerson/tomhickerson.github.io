@@ -1,6 +1,8 @@
 ---
 title: "Into The Trees"
 date: 2015-02-21
+tags:
+  - music 
 ---
 
 I bought this album a while back when I heard that Zoe Keating's husband was diagnosed with cancer. Now he's gone.
