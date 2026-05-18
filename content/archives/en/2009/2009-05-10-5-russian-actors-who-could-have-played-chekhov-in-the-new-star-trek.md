@@ -1,6 +1,9 @@
 ---
 title: "5 Russian Actors who could have played Chekhov in the new Star Trek"
 date: 2009-05-10
+tags:
+  - startrek
+  - russia
 ---
 
 OK, I saw Star Trek this weekend. JJ Abrams delivered the goods. I liked it. BUT, I did not like the punk kid who played Pavel Chekhov. He was a 17-year-old brainiac, with no Russian characteristics what-so-ever. At least Harold-without-Kumar Sulu had an ass-kicking sword and got to leave the bridge once in a while. Uhura got to become mega-hot. Bones got to become more in-your-face. Even Scotty got to pal around with an Ewok. But Chekhov? Not even hitting puberty, and with the accent which made all the in-jokes fall flat (NB: You have not seen Trek until you have seen it in Russian).
