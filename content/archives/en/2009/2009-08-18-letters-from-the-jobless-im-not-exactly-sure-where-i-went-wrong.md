@@ -12,4 +12,3 @@ via [huffingtonpost.com](http://www.huffingtonpost.com/2009/08/17/letters-from-t
 
 Not an uncommon problem. I had to work outside my field after getting my first IT degree. After that, I had a 'never go hungry again' attitude and kept a job even through most of graduate school. That at least kept my debt down to a manageable level.
 
-[Posted via web](http://posterous.com) from [Hooray for the bleeding edge](http://tomh.posterous.com/letters-from-the-jobless-im-not-exactly-sure)
