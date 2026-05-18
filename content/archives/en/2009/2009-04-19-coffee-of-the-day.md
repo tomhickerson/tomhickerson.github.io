@@ -1,6 +1,7 @@
 ---
 title: "Coffee of the day..."
 date: 2009-04-19
+draft: true
 ---
 
 ![](images/IMAGE_024.jpg)
