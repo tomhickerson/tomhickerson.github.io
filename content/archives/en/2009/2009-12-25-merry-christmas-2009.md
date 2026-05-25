@@ -6,7 +6,7 @@ tags:
   - xmas
 ---
 
-<img src="images/352615207_b253065f07.jpg" alt="Happy New Year!">
+<img src="https://tomhickerson.com/en/archives/en/2009/images/352615207_b253065f07.jpg" alt="Happy New Year!">
  
 [Happy New Year!](http://www.flickr.com/photos/tom_hickerson/352615207/), originally uploaded by [tom\_hickerson](http://www.flickr.com/people/tom_hickerson/).
 
