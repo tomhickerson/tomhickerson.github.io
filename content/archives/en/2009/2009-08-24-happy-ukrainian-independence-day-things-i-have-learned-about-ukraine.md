@@ -4,10 +4,7 @@ date: 2009-08-24
 tags:
   - ukraine 
 ---
-
-[![](images/media_httpfarm3staticflickrcom244537769550395130e744ebjpg_qgliuEqJebEghzp.jpg.scaled500.jpg)](http://www.flickr.com/photos/tom_hickerson/3776955039/)
-
-via [flickr.com](http://www.flickr.com/photos/tom_hickerson/3776955039/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tom_hickerson/317321850/in/album-72157594411356711" title="DSCF1631"><img src="https://live.staticflickr.com/138/317321850_ee66b068ee_z.jpg" width="640" height="480" alt="DSCF1631"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Today marks the 18th year Ukraine has been an independent country. I have been in and around Ukraine for about seven of those eighteen.
 
@@ -25,4 +22,3 @@ Things I have learned about Ukraine in that time are the following:
 
 Happy Independence Day!
 
-[Posted via web](http://posterous.com) from [Hooray for the bleeding edge](http://tomh.posterous.com/happy-ukrainian-independence-day-things-i-hav)
