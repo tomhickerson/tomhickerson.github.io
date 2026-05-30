@@ -1,6 +1,10 @@
 ---
 title: "All interviews suck"
 date: 2010-02-24
+tags:
+  - employment
+  - life
+  - failure
 ---
 
 Like most of you, I have a job.  Like most of you, I had to pass an interview to get that job.  Like most of you, I failed many interviews before passing the one that got me here today.
@@ -31,4 +35,3 @@ It was like Chinese water torture.  I completely came unglued and couldn’t co
 
 I walked away with some bruised pride, and a wasted day.  But it did teach me to get a little better at what I did.  I read the [Bitter Java](http://www.manning.com/tate/) book.  I started to learn about [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).  More importantly, I kept interviewing.  I finally got another job – the job I have now, actually – and I’m still programming,
 
-del.icio.us Tags: [interview](http://del.icio.us/popular/interview),[job](http://del.icio.us/popular/job),[life](http://del.icio.us/popular/life),[fail](http://del.icio.us/popular/fail)
