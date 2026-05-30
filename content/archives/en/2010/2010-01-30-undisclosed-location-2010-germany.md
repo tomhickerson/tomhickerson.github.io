@@ -1,6 +1,10 @@
 ---
 title: "Undisclosed Location 2010: Germany!"
 date: 2010-01-30
+tags:
+  - travel
+  - germany
+  - photo
 ---
 
 Regensburg definitely comes recommended for all...  
