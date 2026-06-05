@@ -1,6 +1,7 @@
 ---
 title: "Java and the long tail"
 date: 2006-01-20
+draft: true
 tags:
   - java
 ---
