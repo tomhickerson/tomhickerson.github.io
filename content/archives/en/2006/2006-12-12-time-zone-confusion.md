@@ -1,6 +1,7 @@
 ---
 title: "Time Zone Confusion"
 date: 2006-12-12
+draft: true 
 ---
 
 <P>I've experienced this lately, but maybe not as extreme as Web Worker Daily puts it though; <a href="http://webworkerdaily.com/2006/12/09/what-to-do-about-time-zone-dementia/">What to do about Time Zone Dementia</a>. From the article, they describe the following problems (and then provide some solutions): <P><code>Early morning wakeups. You get up at 6:45 am to dial into a conference call scheduled for 7 am Mountain Standard Time. But you live in New York. </code> <P><code>Midday confusion. You go for lunch with a friend on Tuesday at noon, trusting the open space on your calendar. You miss an important online developer chat because you didn?t convert the time when recording it. </code> <P><code>Self-centered meeting planning. You ask your colleague in Sydney to call in for a mandatory 8 am PST meeting, forgetting that it would be 3 am to her. </code> <P><code>Disorientation when traveling away from home. You diligently record the details of an important webinar onto your calendar, but miss it anyway, because while you?re traveling your calendar still reflects your home time zone. </code> <P><code>Socially inappropriate behavior. You plan a springtime brunch, only to be surprised in your pajamas by the guests who remembered to ?spring forward? for daylight savings time.</code>
