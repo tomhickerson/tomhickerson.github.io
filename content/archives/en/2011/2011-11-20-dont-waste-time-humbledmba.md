@@ -1,6 +1,7 @@
 ---
 title: "Don't. Waste. Time. - humbledMBA"
 date: 2011-11-20
+draft: true
 ---
 
 tags: [entrepreneurship](http://pinboard.in/t:entrepreneurship)

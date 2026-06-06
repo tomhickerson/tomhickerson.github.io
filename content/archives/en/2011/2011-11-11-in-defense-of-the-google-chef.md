@@ -1,6 +1,7 @@
 ---
 title: "In defense of the Google chef"
 date: 2011-11-11
+draft: true
 ---
 
 All there is to it; Zynga sucks.

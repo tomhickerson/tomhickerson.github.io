@@ -1,6 +1,7 @@
 ---
 title: "The New Einsteins Will Be Scientists Who Share"
 date: 2011-10-29
+draft: true
 ---
 
 "Why don't scientists share?"

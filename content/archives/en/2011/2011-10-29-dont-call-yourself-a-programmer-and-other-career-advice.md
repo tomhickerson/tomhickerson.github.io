@@ -1,6 +1,7 @@
 ---
 title: "Don’t Call Yourself A Programmer, And Other Career Advice"
 date: 2011-10-29
+draft: true
 ---
 
 Pure gold, every line is something I wish I wrote from my own experience...
