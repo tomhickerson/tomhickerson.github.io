@@ -1,6 +1,7 @@
 ---
 title: "The End of the Internet Dream? — Backchannel — Medium"
 date: 2015-08-18
+draft: true
 ---
 
 "I think software liability is inevitable. I think it’s necessary. I think it will make coding more expensive, and more conservative. I think we’ll do a crappy job of it for a really long time. I don’t know what we’re going to end up with. But I know that it’s going to be a lot harder on the innovators than on the incumbents."
