@@ -1,19 +1,22 @@
 ---
 title: "How to become (nearly) fluent in Russian"
 date: 2015-10-26
+tags:
+  - russia
+  - film
 ---
 
-[![Kharkov Ukraine 2013](images/IMG_20130921_093729-1024x768.jpg)](http://kingofcodemountain.com/blog/wp-content/uploads/2015/10/IMG_20130921_093729.jpg)_This post was originally inspired by the blog post [How to become (nearly) fluent in German](http://blog.culturalvistas.org/exchange-tips/how-to-become-nearly-fluent-in-german/), care of [Cultural Vistas](http://blog.culturalvistas.org/)._ 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tom_hickerson/54742298584/in/photolist-2rpoAbd-2rQytKe-2rQytKp-2rQytL6-2rQzq9X-2rQzqbf-2rQzLLV-2rQzLM6-2rU2E6P-2rU7ib6-2rU98ps-2rU98rM-2s5CXT7-2s5CXTY-2s5HwWH-2s5HwWY-2s5JPtS-2seS99h-2seS99Y-2seXA3N-2seY1iC-2seY1jz-2seYT4b-o4Dj6L-o4DtGE-o4KqVM-o4KsRa-o4KuNr-o4KxJ6-o4KGDF-o6wJBF-o6wLcV-o6wS2F-o6wWtM-2pgrcmY-2pgvgcy-2pgvgJW-2pgY1AB-2pr53Ro-2psUmyP-2psVZws-2psVZwH-2psVZx9-2psWv2a-2psWveE-2qNx3GD-2rpi9fU-2rpoAb8-nMfMNg-nMfPJk" title="Ukrainian Independence Day"><img src="https://live.staticflickr.com/65535/54742298584_d8acbed5a7_z.jpg" width="480" height="640" alt="Ukrainian Independence Day"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+_This post was originally inspired by the blog post [How to become (nearly) fluent in German](http://blog.culturalvistas.org/exchange-tips/how-to-become-nearly-fluent-in-german/), care of [Cultural Vistas](http://blog.culturalvistas.org/)._ 
 
 I get compliments on my Russian all the time.  Wait, that's not true.  I get compliments on my spoken Russian all the time, by other students of Russian.  But that counts for something, right?  Seriously, though, I tend to clam up about my own Russian skill, even though it's something I've been doing for about the last twenty years or so.
 
 I got bitten by the 'Russian bug' in what would become the Bard-Smolny program, which at the time was sending students from Bard College to Leningrad, USSR.  A few weeks after I arrived the city where I landed in August of 1991 became St. Petersburg, but the boarding pass still said 'Leningrad' on it.
 
-![taken from NYC 1991 on our way to Leningrad](images/10401089_35820526555_4041_n.jpg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tom_hickerson/228516743/in/album-72157594258190018" title="DSCF0737"><img src="https://live.staticflickr.com/61/228516743_b7c81adb92_z.jpg" width="480" height="640" alt="DSCF0737"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ever since then I've traveled back and forth between the US and the NIS, often for work, but not always.  My third time back I went with the Alfa-Bank Fellowship Program in 2006, which placed me in Moscow for a year and gave me the contacts to find a job there shortly thereafter.
-
-[![Me in Baikal, 2006](images/227395054_676a6380f1_z.jpg)](http://kingofcodemountain.com/blog/wp-content/uploads/2015/10/227395054_676a6380f1_z.jpg)Nowadays, I spend time in Ukraine, and I've been here since 2009.
+Ever since then I've traveled back and forth between the US and the NIS, often for work, but not always.  My third time back I went with the Alfa-Bank Fellowship Program in 2006, which placed me in Moscow for a year and gave me the contacts to find a job there shortly thereafter.  Nowadays, I spend time in Ukraine, and I've been here since 2009.
 
 So, how did I do it?  How did I become so good in Russian?  I would put it down to three things:
 
@@ -29,10 +32,10 @@ Related to point #3 above, there are a number of films that helped me learn.  O
 
 [Taxi Blues](http://www.imdb.com/title/tt0100757/?ref_=fn_al_tt_1) (1990) - One of the first pictures to make it out of the USSR to depict its late-eighties, end-of-empire, crumbling beauty.  Every hero was an antihero, every soul exposed a dark Russian soul, a lonely loner, not worth saving.  Other films in this theme include [Igla](http://www.imdb.com/title/tt0097561/?ref_=nm_flmg_act_1), starring pop-icon Viktor Tsoy, or [Interdevochka](http://www.imdb.com/title/tt0097584/?ref_=fn_al_tt_1).
 
-[Brat 2](http://www.imdb.com/title/tt0238883/?ref_=fn_al_tt_1) (2000) - One of the films to show off the talents of Sergey Bodrov, a young, charismatic actor who was killed too early.  This film is also interesting because it films the actor in the United States, and shows how Russians viewed the USA.  A similar film in this vein is [American Daughter](http://www.imdb.com/title/tt0112348/?ref_=fn_al_tt_1).
-
 [Nochnoi Dozor](http://www.imdb.com/title/tt0403358/?ref_=nv_sr_1) (2004) - Vampires in Moscow!  This is the film that starts to take Russian film-making to the next level, as it's helmed by charismatic Russian actors and actresses and the very talented Russian director [Timur Bekmambetov](http://www.imdb.com/name/nm0067457/?ref_=tt_ov_dr) (think _Wanted_, etc).  Compare this with the grainy shots from _Brat 2_ and you can already see that the film industry undergoing a turn to modern action and fantasy in under four years.
 
 [Turetskiy Gambit](http://www.imdb.com/title/tt0374298/?ref_=fn_al_tt_1) (2005) - Also from the same modern style as Nochnoi, but following the exploits of one Erast Petrovich Fandorin, a Russian answer to Sherlock Holmes, depicted in the novels of Boris Akunin.  This film follows the adventures of Fandorin as Russia wars against Turkey and the Ottoman Empire.
 
 [Viy](http://www.imdb.com/title/tt1224378/?ref_=fn_al_tt_5) (2014) - My final recommendation, and ironically the one film that is related to Russian literature the most as it's inspired by the stories of Gogol.  Witches and demons terrorize a small Ukrainian village.  Somehow a foreign visitor from England gets involved.  No political foreshadowing here, hmm.
+
+**UPDATE 2026: Note that most of these films are awash in Russian or Soviet propaganda, so I don't recommend them any more outside of Russian language learning.  The only film I would recommend on artistic merits at this time is 1994's [Burnt by the Sun](https://www.imdb.com/title/tt0111579/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_burnt%20by%20the%20sun).**
