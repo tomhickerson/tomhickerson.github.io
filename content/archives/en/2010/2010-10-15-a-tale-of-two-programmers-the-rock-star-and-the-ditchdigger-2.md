@@ -1,6 +1,9 @@
 ---
 title: "a tale of two programmers: the Rock star and the Ditchdigger"
 date: 2010-10-15
+tags:
+  - employment
+  - programming 
 ---
 
 Recently, I've seen some true words about the term "Rock Star" developer.  That is, the company tarts up a job description by calling their programmers 'rock star' and think they'll get a higher quality of candidate for open positions.  The truth is: [bullshit](http://blog.hirelite.com/what-developers-think-when-you-say-rock-star).
