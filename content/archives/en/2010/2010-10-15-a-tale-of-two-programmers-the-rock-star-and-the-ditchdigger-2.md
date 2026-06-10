@@ -1,5 +1,5 @@
 ---
-title: "a tale of two programmers: the Rock star and the Ditchdigger"
+title: "A tale of two programmers: the Rock Star and the Ditchdigger"
 date: 2010-10-15
 tags:
   - employment
