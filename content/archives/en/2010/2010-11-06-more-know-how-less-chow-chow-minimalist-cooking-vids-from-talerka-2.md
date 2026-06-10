@@ -1,6 +1,7 @@
 ---
 title: "More know-how, less chow-chow: minimalist cooking vids from Talerka"
 date: 2010-11-06
+draft: true
 ---
 
 Talerka.ru publishes cooking vidoes with no words, just technique.  
