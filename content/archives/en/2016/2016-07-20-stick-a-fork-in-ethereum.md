@@ -1,6 +1,7 @@
 ---
 title: "Stick a Fork in Ethereum"
 date: 2016-07-20
+draft: true
 tags:
   - eth 
   - crypto 
