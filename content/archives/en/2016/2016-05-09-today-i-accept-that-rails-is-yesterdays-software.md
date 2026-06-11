@@ -1,6 +1,7 @@
 ---
 title: "Today I accept that Rails is yesterday’s software"
 date: 2016-05-09
+draft: true
 tags:
   - rails
   - software
