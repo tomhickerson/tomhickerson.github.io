@@ -1,6 +1,7 @@
 ---
 title: "I've bought some more awful IoT stuff"
 date: 2016-06-22
+draft: true
 tags:
   - iot 
   - security 
