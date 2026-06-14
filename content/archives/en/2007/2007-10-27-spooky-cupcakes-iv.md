@@ -1,6 +1,7 @@
 ---
 title: "Spooky Cupcakes IV"
 date: 2007-10-27
+draft: true
 ---
 
 [![](images/1780881696_aa20887203.jpg)](http://www.flickr.com/photos/tinctoris/1780881696/ "photo sharing")  
