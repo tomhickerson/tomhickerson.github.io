@@ -1,6 +1,7 @@
 ---
 title: "The Secret History of Kim Jong Il - By Kim Hyun Sik"
 date: 2011-12-20
+draft: true
 ---
 
 tags: [northkorea](http://pinboard.in/t:northkorea)
