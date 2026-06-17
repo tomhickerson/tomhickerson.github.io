@@ -1,6 +1,7 @@
 ---
 title: "This digital life"
 date: 2010-01-23
+draft: true
 ---
 
 As blogs go, this is the one account that I’ve had the longest.  It is also the one that gets updated less frequently than others (I think I’ve let it go for as long as a year).  In my digital life, I have a number of places/things/accounts:
