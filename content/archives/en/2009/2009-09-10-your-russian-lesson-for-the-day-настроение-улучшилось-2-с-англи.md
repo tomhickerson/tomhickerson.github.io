@@ -1,6 +1,7 @@
 ---
 title: "Your Russian Lesson for the Day: \"Настроение улучшилось-2\" с английскими субтитрами"
 date: 2009-09-10
+draft: true
 tags:
   - russian
   - video
