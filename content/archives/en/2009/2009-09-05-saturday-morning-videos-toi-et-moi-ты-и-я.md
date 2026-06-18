@@ -1,6 +1,7 @@
 ---
 title: "Saturday Morning Videos - Toi et Moi - Ты и я"
 date: 2009-09-05
+draft: true
 tags:
   - russia
   - video
