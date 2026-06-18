@@ -1,6 +1,8 @@
 ---
 title: "Do we forget the lean times?"
 date: 2007-03-15
+tags:
+  - java
 ---
 
 <P>I remember the lean times. I was once without a job for nine months, and I was working a part-time job on and off while looking for an IT job after finishing <a href="http://www.aduni.org/">ArsDigita University</a>. Remembering those times make you a little scared, make you want to save money instead of spend it, make you want to have an escape route out of your current situation in case it comes crashing down. <P>I remember when I started learning Java. It was 1999. Applets were the only thing that we could get to work on the web, and maybe JSP and Servlets were starting to get there for server-side programming. The only other thing that was out there was the Enterprise-level programming of EJB, which confused the majority of us out there and made us want to do something else. <P>So in 2002, someone introduced me to Struts, and it looked like a breath of fresh air. Since then, other programmers have been quietly (or not so quietly) churning out tool after tool that we can use. Hibernate. Velocity. Tapestry. Grinder. DbUnit. The list keeps unfolding for us. 
