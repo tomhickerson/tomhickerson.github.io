@@ -1,6 +1,7 @@
 ---
 title: "The Human Cost of Tech Debt"
 date: 2016-08-04
+draft: true
 tags:
   - software
   - developers 
