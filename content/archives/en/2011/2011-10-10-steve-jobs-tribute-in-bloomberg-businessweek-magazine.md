@@ -1,6 +1,7 @@
 ---
 title: "Steve Jobs Tribute in Bloomberg Businessweek Magazine"
 date: 2011-10-10
+draft: true
 ---
 
 Normally, Businessweek comes on Friday. For some reason this week, the magazine showed up today instead. I didn't think much of it when I walked out to the driveway, actually. There it was, folded up in its weatherproof bag, just like usual.
