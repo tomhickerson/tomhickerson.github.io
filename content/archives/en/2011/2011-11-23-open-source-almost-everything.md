@@ -1,6 +1,7 @@
 ---
 title: "Open Source (Almost) Everything"
 date: 2011-11-23
+draft: true
 ---
 
 If you do it right, open sourcing code is great advertising for you and your company.
