@@ -1,6 +1,7 @@
 ---
 title: "In Open Source, Learn to Decide"
 date: 2011-12-19
+draft: true
 ---
 
 tags: [oss](http://pinboard.in/t:oss)
