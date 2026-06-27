@@ -1,6 +1,7 @@
 ---
 title: "return to a classic"
 date: 2006-01-11
+draft: true
 tags:
   - economics
   - russia
