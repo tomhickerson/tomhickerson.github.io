@@ -1,6 +1,7 @@
 ---
 title: "The Aurora - beautiful shots near Russia"
 date: 2011-03-25
+draft: true
 tags:
   - video
   - russia
