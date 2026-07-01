@@ -1,6 +1,7 @@
 ---
 title: "The True Cost of Commuting"
 date: 2011-10-10
+draft: true
 ---
 
 "Because these two full-time professional workers currently happen to live and work in “Broomfield”, a city that is about 19 miles and 40 minutes of mixed high-traffic driving away from here. They brushed off the potential commute, saying “Oh, 40 minutes, that’s not too bad.”
