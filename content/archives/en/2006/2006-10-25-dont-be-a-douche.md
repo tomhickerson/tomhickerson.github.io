@@ -1,6 +1,7 @@
 ---
 title: "Don't be a douche"
 date: 2006-10-25
+draft: true
 tags:
   - video
 ---
