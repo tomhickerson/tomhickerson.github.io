@@ -266,7 +266,7 @@ that on presentation day, Philip was being deposed in the case of
 Greenspun v. Shaheen in Delaware.</p>
 
 <p>Many of you who are reading this far have probably already read
-Philip's <a href="http://waxy.org/random/arsdigita/">From Start-up to Bust-up</a>, Eve Andersson's <a href="http://web.archive.org/web/20040402040517/www.eveandersson.com/arsdigita-history">Diary of a
+Philip's <a href="https://web.archive.org/web/20260204152110/https://random.waxy.org/arsdigita/">From Start-up to Bust-up</a>, Eve Andersson's <a href="http://web.archive.org/web/20040402040517/www.eveandersson.com/arsdigita-history">Diary of a
 Start-up</a>, and Michael Yoon's <a href="https://web.archive.org/web/20040202040918/http://michael.yoon.org/arsdigita">Arsdigita: An Alternate Perspective</a>.
 What's more interesting reading are all the court documents for the
 Greenspun v. Shaheen case, which were posted to <a href="https://web.archive.org/web/20060203003804/https://unicast.org/stuff/arsdigita/">this site</a> during the
