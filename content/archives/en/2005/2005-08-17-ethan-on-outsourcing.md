@@ -1,6 +1,7 @@
 ---
 title: "Ethan On Outsourcing"
 date: 2005-08-17
+draft: true
 tags:
   - outsourcing
   - writing
