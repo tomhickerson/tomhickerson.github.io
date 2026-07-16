@@ -1,7 +1,7 @@
 ---
 title: "ArsDigita University at 25: Some Additional Thoughts"
 date: 2026-07-13T20:46:48+03:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 
