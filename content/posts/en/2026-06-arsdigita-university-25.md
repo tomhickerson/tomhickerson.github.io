@@ -16,6 +16,8 @@ I did a few things this summer:
 
 I wrote a bit about my personal experiences with ArsDigita University in the 5-year post; none of those impressions or memories have changed.  I did want to point out that, with twenty-five years of time between then and now, it's common to find people who don't remember where we were technologically in the year 2000.  Philip Greenspun's entire claim to fame was building one of the first web development companies at a time where pages were mostly HTML, maybe some CSS, and Javascript was still considered an 'optional' luxury.  There was no Node, no AJAX, no JQuery.  Only one of our classmates had a cell phone.  No Facebook, no Twitter.  Philip touted the idea of using SOAP XML to scrape Amazon for prices, and we couldn't get our collective heads around that idea yet.
 
+Our graduation wasn't until mid-July, and then we all went our separate ways.  Some of my classmates wrote about their time after ADUni like "oh, I found a job, it was pretty easy etc etc."  **I do not recall it being easy at all.  Not at all.**  We finished in July and I was asking about part-time work in a coffee shop down the street a week later.  I wound up doing temp work at Harvard.  Oh, and then 9/11 happened.  Our entire economy felt like it was under attack.  I didn't get a real IT job until next February, right around the time that [ArsDigita the corporation folded itself up like a card table](https://news.slashdot.org/story/02/02/08/1319206/arsdigita-shut-down).
+
 Twenty-five years!  It's been a wild ride since ADUni, and I'm glad that I was a part of it.
 
 ---
