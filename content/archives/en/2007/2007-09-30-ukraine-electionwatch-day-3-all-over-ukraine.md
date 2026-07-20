@@ -1,6 +1,9 @@
 ---
 title: "Ukraine Electionwatch Day 3: All Over Ukraine"
 date: 2007-09-30
+tags:
+  - ukraine
+  - election
 ---
 
 As I write this, it's eerily quiet on the streets, voting is still taking place, and we won't get to see if we do this all over again until tomorrow.
